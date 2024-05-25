@@ -1,0 +1,157 @@
+hash-format = "sha256"
+
+[[files]]
+file = "BetterF3-4.0.1-Fabric-1.19.2.jar"
+hash = "372cde8b27620669f20f64d3a473edb7467fe0683c4f89a17f7471b1aa729b6f"
+
+[[files]]
+file = "BlueMap-3.13-fabric-1.19.jar"
+hash = "e7ed0a855f1aea86b502a1cfddd9e81e97ee6a7ffd006e4d2ee4b15cd6f07372"
+
+[[files]]
+file = "Cluttered-2.1-1.19.2-[Fabric].jar"
+hash = "013ef3aae5050e76c57a8a070644b2a8b71912735c7e20f92f9501aacd5057ef"
+
+[[files]]
+file = "Joban-Client-Mod-1.19.2-1.2.2.jar"
+hash = "03093989e8e2422b4d3287843d2eb92c6c596abddf213dbbe635c30d214d1cae"
+
+[[files]]
+file = "MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.8.jar"
+hash = "0b7112386373d088a0848fab3847bb92770aef671df77d0a9a461be2309e61b1"
+
+[[files]]
+file = "MTR-MSD-Addon-fabric-1.19.2-3.2.2-1.3.4-enhancement-1.jar"
+hash = "23826488e7c4dd727dab94fcc4e6c09d2a04ca392f7738012d43ff503e057228"
+
+[[files]]
+file = "MTR-NTE-0.4.1+1.19.2.jar"
+hash = "cb97f6fbf790ac8d4e669db89f2b54f89d96945fbb57077a2fa83c021f0d7f04"
+
+[[files]]
+file = "MTR-Russian-Metro-Addon-fabric-1.19.2-3.2.2-1.1.0.jar"
+hash = "c609b0f0443dbbf54e6df95b00f787cd1d2a2fd7929c4836b32193216b6c906b"
+
+[[files]]
+file = "MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
+hash = "fe122776062a0c8f4b4c31fda3979b81c7f66897740f649672213c389eeea35f"
+
+[[files]]
+file = "MoreFences-1.19.2-1.0.0-[FABRIC].jar"
+hash = "710be47ffd2efc6feb357b24e2b31149410a8e1203c26af02c01356c09be608c"
+
+[[files]]
+file = "Slideshow-fabric-1.19.2-1.0.2-hotfix-1.jar"
+hash = "0e780e8ccc9e211ac5242475fb8bfa1ff12b9368ad1e1e9cefb7bdf6744153fa"
+
+[[files]]
+file = "Terralith_1.19.3_v2.3.12.jar"
+hash = "4f74497c92b224a12be231b32c50e55db41e6051ebba5d87ce63aad78204b663"
+
+[[files]]
+file = "Xaeros_Minimap_23.9.2_Fabric_1.19.1.jar"
+hash = "5b2f043e31980877f33ab0c2e9a4a6ae58a655f7df1d05eb3bd7d7eca629e4df"
+
+[[files]]
+file = "automobility-0.4.2+1.19.2-fabric.jar"
+hash = "a3b2a4cc858538cc034cc99e2231010e8ec06f2eaef9d10e4e0df2c08b79bcdf"
+
+[[files]]
+file = "chipped-fabric-1.19.2-2.1.5.jar"
+hash = "3fbf0d165e00e245029f79105f45dd31f9ac80c99a3580efd153968fd25d54c8"
+
+[[files]]
+file = "chisel-1.4.7+1.19.2.jar"
+hash = "55686d5d7ec6175d3c6005e7ac143c94efd4feaa60b75f641ac3fd1f7e1b146f"
+
+[[files]]
+file = "chisels-and-bits-fabric-1.3.142.jar"
+hash = "ce93a0f3c784d765d83cacd33a2a924ded0c9479a8bc68948b21ec4942b1acec"
+
+[[files]]
+file = "cloth-config-8.3.103-fabric.jar"
+hash = "5d5a436e786f2b7c2c61765a8bf90302bc634084727cc79bdc492515e98e052f"
+
+[[files]]
+file = "clutter-1.19.2-0.2.1.jar"
+hash = "9709558ba87d9691b5e2e79a65eff7ae80395b06ebb3f9cbe64c283d725a9b71"
+
+[[files]]
+file = "conveyor-belts-1.9.0-MC1.19.2.jar"
+hash = "7d783109a3904ba59b702844141a2ed72a2d7b667ad05d9c826ce238a90a115d"
+
+[[files]]
+file = "ctov-3.2.6c.jar"
+hash = "c48f972761ce0b960565b4ff02aebceacda799dea1ce93e86df477b1092ba111"
+
+[[files]]
+file = "dcintegration-fabric-3.0.2-1.19.2.jar"
+hash = "d07cae153ba39e3a39e2f38281e9ca000f50bd2fba702c340b288aa746dd3b02"
+
+[[files]]
+file = "exlinefurniture-fabric-1.19.2-v2.3.2.jar"
+hash = "dd7804aaad56a12fea13cc00575d9e9859fd8b4362fc634a56575aace08dac66"
+
+[[files]]
+file = "fabric-api-0.77.0+1.19.2.jar"
+hash = "0fc62744a38f629fe0840893713e6a111ed1263719f93e499c990688811824ec"
+
+[[files]]
+file = "fabric-language-kotlin-1.10.16+kotlin.1.9.21.jar"
+hash = "0db1a9fe74c262ee7cff86ec42cd3a70ccce8308460e092e10f256fe120a0a12"
+
+[[files]]
+file = "iris-mc1.19.2-1.6.11.jar"
+hash = "6a06a609c749c78b098f1664ea33d1b54e6d335ef6ae7f9eff2029e814e393e5"
+
+[[files]]
+file = "jei-1.19.2-fabric-11.6.0.1018.jar"
+hash = "be9e7d2433232819266a31a4e68379d71d109561289754b500d4a686075e5a36"
+
+[[files]]
+file = "journeymap-1.19.2-5.9.7-fabric.jar"
+hash = "9f789ac3dbf904c233a1f203f489958acff242130607198b3a1a615734263ade"
+
+[[files]]
+file = "mcw-furniture-3.2.1-mc1.19.2fabric.jar"
+hash = "2c6c2f20a24d7321daaf85b7130e2420fdc0b0fb735f5891c91e88b085e7e815"
+
+[[files]]
+file = "moreslabsstairsandwalls-3.1.0.jar"
+hash = "cf93d094bdf5db6387c196775e1f61cf8ce7c578a00050ae55ae3b0fe20e4cf6"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "rechiseled-1.1.5b-fabric-mc1.19.2.jar"
+hash = "82a71929df17acfee6a3f4cf61d06adbb2b0c467421ac59027b4f5bf8430eb93"
+
+[[files]]
+file = "simple-hud-utilities-2.5.2.jar"
+hash = "1db27c505f5f356a74ba2b5a80ff45c7661e43b6c9e7b06a99775506469e6f09"
+
+[[files]]
+file = "sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
+hash = "12ecf3a81bcc18ae87e879124ccbc5d079e500be10e238bf61f56da5c3f7cf53"
+
+[[files]]
+file = "supplementaries-1.19.2-2.4.12-fabric.jar"
+hash = "84bd24f8df4a7fd33f2c3043c3277be9236e0341640311ce84031cb8239f0823"
+
+[[files]]
+file = "traffics-2.3.3_FABRIC.jar"
+hash = "41855a337d11003376c2319d7ce529fa815ede019210222d83ba0efe6c84527a"
+
+[[files]]
+file = "voicechat-fabric-1.19.2-2.4.29.jar"
+hash = "7b215bee1e4f14e601145686894ce0b0c85ce89ec6d2a77f32dc257c38c4b9e0"
+
+[[files]]
+file = "worldedit-mod-7.2.12.jar"
+hash = "1426645459fa4a0bedfeddf2aa0e69416d9676dc022aaf879333aea89d7794dd"

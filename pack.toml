@@ -1,0 +1,13 @@
+name = "Connected Transportation"
+author = "Server - Bubbles, Packwiz-Modpack: BentCookie28623"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ac1dca7b14b40dd449cda9255cdc9a51689c31ce5f836fa5f2695ddafa090deb"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.19.2"
